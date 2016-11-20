@@ -1,0 +1,15 @@
+{
+  "name": "learning-threejs",
+  "version": "1.0.0",
+  "description": "Learning THREE.js",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:dheavy/three-training.git",
+    "type": "git"
+  },
+  "author": "Davy Peter Braun",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.82.1"
+  }
+}
